@@ -12,4 +12,4 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) y desarrollador frontend juni
 
 ### ¿Cómo contactar conmigo?
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/alberto-mateu-8104b9356/)
-- **Correo:** [Correo Electronico](amateusouto@gmail.com)
+- **Correo:** [amateusouto@gmail.com]
